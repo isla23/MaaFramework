@@ -13,7 +13,7 @@
 MAA_CTRL_UNIT_NS_BEGIN
 
 // Define Pipe Name
-constexpr auto LUNA_PIPE_NAME = L"\\\\.\\pipe\\MaaLunaPipe";
+constexpr auto LUNA_PIPE_NAME = L"\\\\.\\pipe\\MaaLunaPipe1";
 
 MessageInput::~MessageInput()
 {
